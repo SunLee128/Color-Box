@@ -6,4 +6,4 @@ It has two components
 * BoxContainer: creates array of Box component with random colors
 
 #### Link
-colorbox-by-sl.surge.sh
+http://colorbox-by-sl.surge.sh/
