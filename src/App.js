@@ -1,10 +1,10 @@
 import React from 'react';
-import BoxContainer from './BoxContainer'
+import BoxContainer from './BoxContainer';
 import './App.css';
 
-function App() {
+function App () {
   return (
-    <div className="App">
+    <div className='App'>
       <BoxContainer />
     </div>
   );
